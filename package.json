@@ -21,6 +21,7 @@
     "karma-webpack": "1.7.0",
     "mocha": "2.4.5",
     "react": "^0.14.7",
+    "react-addons-test-utils": "0.14.6",
     "react-dom": "^0.14.7",
     "react-router": "^2.0.0"
   },
